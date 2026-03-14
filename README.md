@@ -1,2 +1,2 @@
 ## Hi there 😀
-- ⚡ [https://codeberg.org/DrunkAnRoot](Codeberg)
+- ⚡ https://codeberg.org/DrunkAnRoot
